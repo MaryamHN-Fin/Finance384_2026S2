@@ -1,0 +1,10 @@
+# Numerical versions verified in the build environment (Python 3.12.14).
+# This pins direct requirements, not every transitive dependency.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+matplotlib==3.11.1
+arch==8.0.0
+ipython==9.17.1
+ipykernel>=6.29,<8
+jupyterlab>=4,<5
