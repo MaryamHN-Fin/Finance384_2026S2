@@ -22,7 +22,7 @@ Keep the following files in this folder structure:
 
 ```text
 Lecture_10/
-├── FINANCE384_Lecture_10_Notebook_B.ipynb
+├── FINANCE384_Lecture_10_Notebook_B_student.ipynb
 ├── README.md
 ├── requirements.txt
 ├── data/
